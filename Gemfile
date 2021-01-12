@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
 gem 'cocoapods'
-gem 'jazzy'
+gem 'jazzy', '>= 0.9.4'
 gem 'naturally'
 gem 'xcpretty'
